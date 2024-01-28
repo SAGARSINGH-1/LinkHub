@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Signup from './pages/registration/signup'
+// import Signup from './pages/registration/signup'
 import { Toaster,toast } from 'react-hot-toast'
 import Login from './pages/registration/login'
 import Home from './pages/home/Home'
